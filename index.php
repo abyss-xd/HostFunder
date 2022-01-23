@@ -21,9 +21,7 @@ require "tempconfig.php";
   <meta property="og:description" content="<?php echo $descp?>">
   <meta property="og:image" content="<?php echo $thumburl?>">
 
-  <link rel="icon" href="<?php echo $faviconico?>">
-  <link rel="icon" href="<?php echo $faviconsvg?>" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="<?php echo $faviconapple?>">
+  <link rel="shortcut icon" type="image/jpg" href="<?php echo $favurl"/>
 
   <link rel="stylesheet" href="css/landing.css?v=1.0">
 
