@@ -12,7 +12,7 @@ $currname = "Credits";
 //url for your logo
 $logo = "/images/logo.png";
 
-//Url for your favicon
+//Url for your favicon [ CURRENTLY MUST BE JPG ]
 $favurl = "/images/favicon.jpg";
 
 //Your discord invite
