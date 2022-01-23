@@ -1,5 +1,7 @@
 <?php
 
+require "tempconfig.php";
+
 ?>
 
 <!doctype html>
