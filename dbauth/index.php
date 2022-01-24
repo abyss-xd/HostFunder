@@ -5,7 +5,7 @@ require "/tempconfig.php";
 $servername = $hostname;
 $username = $db_user;
 $password = $db_user_pass;
-$dbname = $dbname;
+$dbname = $db_name;
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
