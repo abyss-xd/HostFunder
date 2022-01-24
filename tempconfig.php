@@ -21,4 +21,11 @@ $discordinv = "https://discord.com/invite/";
 //your panel url
 $panelurl = "https://panel.example.com";
 
+//Mysql Database Connection Details
+
+$hostname = "";
+$db_user = "";
+$db_user_password = "";
+$db_name = "";
+
 ?>
