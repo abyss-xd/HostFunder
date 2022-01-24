@@ -11,6 +11,9 @@ This will be my 8th Web Application of this kind that I create, and the first on
 
 # THIS IS NOT PRODUCTION READY YET
 
+FYI: I only work on this when I'm bored so no idea when it'll be complete. I'll probably  finish a beta version at a random weekend lmao.
+
+
 # **Requirements**
 
 This website requires PHP 7.4 or higher.
