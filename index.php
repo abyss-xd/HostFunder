@@ -29,7 +29,7 @@ require "tempconfig.php";
 
 <body>
 
-<h1>Test<h1>
+<h1>Login at <a href="/login">this page</a><h1>
 
 
   <script src="js/landing.js"></script>
