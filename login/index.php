@@ -58,10 +58,10 @@ require "/tempconfig.php";
       <div class="wrapper">
          <div class="title-text">
             <div class="title login">
-               Gems Login
+               <?php echo $hostname ?> Login
             </div>
             <div class="title signup">
-               Gems Signup
+               <?php echo $hostname ?> Signup
             </div>
          </div>
          <div class="form-container">
